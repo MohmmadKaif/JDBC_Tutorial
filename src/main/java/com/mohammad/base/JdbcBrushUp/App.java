@@ -12,6 +12,7 @@ public class App
     {
       JdbcOperation jo=new JdbcOperation();
       jo.provideConnection();
-      return;
+      jo.createEmployeeTable();
+      return; 
     }
 }

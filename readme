@@ -21,4 +21,4 @@ Step 5: Close the Connection object.
 -----------------------------------------------------------------------------------------------------------------
 
 
-In this demonstration we will establish the connection with database using JDBC's first two steps 
+In this demonstration we will fire query using statement object.
