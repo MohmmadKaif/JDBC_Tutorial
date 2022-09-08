@@ -21,4 +21,4 @@ Step 5: Close the Connection object.
 -----------------------------------------------------------------------------------------------------------------
 
 
-In this demonstration we will fire query using statement object.
+In this example we will see how to dynamically insert the values inside the database using PreparedStatement interface.

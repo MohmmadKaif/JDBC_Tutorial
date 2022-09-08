@@ -13,6 +13,7 @@ public class App
       JdbcOperation jo=new JdbcOperation();
       jo.provideConnection();
       jo.createEmployeeTable();
+      jo.addEmployee("E2K19206469", "Mohammad Kaif Altaf Sayyed");
       return; 
     }
 }
