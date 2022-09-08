@@ -1,0 +1,24 @@
+------------------------------------------------********************---------------------------------------------------
+                                This project is for brushing up my jdbc skills.
+ 
+ 
+ General steps for JDBC operations
+ 
+Step 1: Load the JDBC driver.
+
+Step 2: Create Connection object.
+
+Step 3: Create objects of (Query, Statement, PreparedStatemenst, CallableStatement)
+Note:(You will not have to create objects for all of this. Depending on requirement you will have to create. 
+Refer the code for exact operations of this classes/interfaces). 
+ 
+ 
+Step 4: Process the data.
+
+Step 5: Close the Connection object.
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+In this demonstration we will establish the connection with database using JDBC's first two steps 
